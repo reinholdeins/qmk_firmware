@@ -1,0 +1,1 @@
+qmk c2json --no-cpp -kb sofle/rev1 -km sofle_qs keymap.c -o output.json
